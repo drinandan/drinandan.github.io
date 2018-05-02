@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Lorem Ipsum Quid Nostrud
-desc: Te nec mundi mandamus voluptatum. Adhuc nostro id sit, at erat liberavisse eum
-proj-url: https://github.com/femmebot/jekyll-grid
+title: Gender wage discrepancy in the City of Seattle
+desc: For an Insight Data Science Hackathon, <a href="https://github.com/bochocki">@bochocki</a> and I investigated differences in compensation between females and males employed by the City of Seattle. We found that people were paid similar wages if they had the same job regardless of sex. However, the City of Seattle employes nearly twice as many males than females, and more males work in higher paid positions than females. See more about our analysis <a href="https://github.com/drinandan/seattle_gender_pay_disparity">here</a>.
+proj-url: https://github.com/drinandan/seattle_gender_pay_disparity
 proj-num: 03
 ---
 
