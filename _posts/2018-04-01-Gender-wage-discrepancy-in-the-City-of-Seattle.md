@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Does gender wage disparity exist in Seattle?
-desc: For an Insight Data Science Hackathon, <a href="https://github.com/bochocki">@bochocki</a> and I investigated differences in compensation between females and males employed by the City of Seattle. 
+title: Does a gender wage disparity exist in Seattle?
+desc: For an Insight Data Science Hackathon, <a href="https://github.com/bochocki">@bochocki</a> and I investigated differences in compensation between females and males employed by the City of Seattle.
 proj-url: https://github.com/drinandan/seattle_gender_pay_disparity
 proj-num: 03
 ---
