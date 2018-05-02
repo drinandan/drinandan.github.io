@@ -9,7 +9,8 @@ name: jekyll-grid
 description: A jekyll theme ideal for showcasing projects
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://pbs.twimg.com/profile_images/1779775150/bitty-icon_bigger.gif
+#avatar: https://pbs.twimg.com/profile_images/1779775150/bitty-icon_bigger.gif
+avatar: https://avatars1.githubusercontent.com/u/35349420?s=460&v=4
 
 #
 # Flags below are optional
