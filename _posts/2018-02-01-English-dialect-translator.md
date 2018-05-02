@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WriteRight - An English dialect translator
-desc: As a Fellow at Insight Data Science, I created an translator between British and American dialects. See <a href="http://writeright.cc">writeright.cc</a>.
+desc: As a Fellow at Insight Data Science, I created a language translator between British and American dialects. See <a href="http://writeright.cc">writeright.cc</a>.
 proj-url: https://github.com/drinandan/insight-project/blob/master/2018.01.19_create_language_vectors_using_large_corpora.ipynb
 proj-num: 04
 ---
